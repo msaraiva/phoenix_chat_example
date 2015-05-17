@@ -24,8 +24,6 @@ defmodule Chat.Mixfile do
   defp deps do
     [{:phoenix, "~> 0.11"},
      {:phoenix_live_reload, "~> 0.3"},
-     {:phoenix_ecto, "~> 0.1"},
-     {:postgrex, ">= 0.0.0"},
      {:cowboy, "~> 1.0"}]
   end
 end
