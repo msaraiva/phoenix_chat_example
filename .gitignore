@@ -2,6 +2,7 @@
 /_build
 /deps
 /*.ez
+/rel/chat
 # Generate on crash by the VM
 erl_crash.dump
 
