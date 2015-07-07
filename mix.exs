@@ -25,6 +25,6 @@ defmodule Chat.Mixfile do
     [{:phoenix, "~> 0.11"},
      {:phoenix_live_reload, "~> 0.3"},
      {:cowboy, "~> 1.0"},
-     {:exrm, "~> 0.15.3"}]
+     {:exrm, "~> 0.18.1"}]
   end
 end
